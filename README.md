@@ -1,3 +1,11 @@
+helper pour reset le NetworkManager 
+'''Bash
+sudo systemclt restart NetworkManager
+'''
+
+
+
+
 # detection_droneVoici la version **markdown** de l’explication :
 
 ---
